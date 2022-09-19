@@ -1,4 +1,4 @@
 # titulo
 ## subtitulo
 
-texto de exemplo
+texto de exemplo.
