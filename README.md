@@ -1,5 +1,4 @@
 # titulo
 ## subtitulo
 
-texto de exemplo
-abdnb
+texto de exemplo.
